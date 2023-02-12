@@ -1,3 +1,6 @@
+AN WEB APP FOR CALCULATING YOUR DAILY CALORIC AND MACRONUTRIENT NEED, STILL INCOMPLETE, SOON TO BE UPDATED
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
