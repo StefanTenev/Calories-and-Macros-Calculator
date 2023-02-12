@@ -1,0 +1,15 @@
+.ActivityLevelBox{
+    background-color: hsl(168, 42%, 37%);
+    border-radius: 0.5rem;
+    border: 3px solid ;
+    transition: all 0.35s;
+    flex: 1 1 0;
+    padding: 0.15rem;
+}
+
+.ActivityLevelBox:hover {
+    background-color: hsl(36, 61%, 38%);
+    color: rgb(200, 200, 200);
+    cursor: pointer;
+}
+
